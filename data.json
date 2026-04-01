@@ -1,11 +1,25 @@
 {
-    "plan": {
-        "software": 2.0,
-        "python": 2.0
-    },
-    "completed_habits": [
-        "Study",
-        "Exercise",
-        "Drink Water"
-    ]
+    "history": {
+        "2026-04-01": {
+            "plan": {
+                "python": 4.0,
+                "software": 4.0
+            },
+            "completed_habits": [
+                "Study",
+                "Exercise",
+                "Drink Water"
+            ]
+        },
+        "2026-04-02": {
+            "plan": {
+                "Math": 1,
+                "Python": 2
+            },
+            "completed_habits": [
+                "Study",
+                "Drink Water"
+            ]
+        }
+    }
 }
